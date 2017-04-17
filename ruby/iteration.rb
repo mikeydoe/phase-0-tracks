@@ -44,5 +44,7 @@ numbers.shift
 
 p numbers
 
+d
+
 
 
