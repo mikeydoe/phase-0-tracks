@@ -1,0 +1,5 @@
+Create a class that contains an intialization instance where 
+a word is given to the user and the user can then guess specific letters.
+If a letter is contained in the string then the program
+will return the blank string with the appropriate positioning of the letter.
+I also need to set a limit to the amount of guesses based on the length of the word. The number of times the user can guess is equal to the length of the word. Repeated guesses do not count. 
